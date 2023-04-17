@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Chat GPT Boat AI</string>
+    <string name="heading_text">We’ve trained a model called ChatGPT which interacts in a conversational way. The dialogue format makes it possible for ChatGPT to answer followup questions, admit its mistakes, challenge incorrect premises, and reject inappropriate requests.</string>
+    <string name="chat_with_boat">Chat with Boat</string>
+    <string name="generate_image">Generate Image</string>
+    <string name="type_here">Type here…</string>
+</resources>

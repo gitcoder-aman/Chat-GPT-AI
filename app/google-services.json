@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "261085827579",
+    "project_id": "chat-gpt-api-d0457",
+    "storage_bucket": "chat-gpt-api-d0457.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261085827579:android:954688ec8440c67da07b5e",
+        "android_client_info": {
+          "package_name": "com.tech.chatgptboatai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "261085827579-92ejtknp1r4pv3otonblebfrasm6p86m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tech.chatgptboatai",
+            "certificate_hash": "09cbe5d48847bba99616ae074e060b05b2ef599f"
+          }
+        },
+        {
+          "client_id": "261085827579-fpb865vb4ej4ivsbjvai432j2qf93337.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUKG3ws39ddXzH_-5P9U8JMyeBqA5a5DE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "261085827579-fpb865vb4ej4ivsbjvai432j2qf93337.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
